@@ -41,7 +41,7 @@ This **Power BI** project analyzes **DMart Sales Data**, providing insights into
 - Enhanced **UI/UX for better visualization**  
 
 ## 🏆 Credits  
-Developed by **Hojefa Laxmidhar** | **[Your LinkedIn Profile](https://www.linkedin.com/in/hojefa-laxmidhar-24737221b/)** | | **[Portfolio](https://laxmidharhojefa.github.io/)**
+Developed by **Hojefa Laxmidhar** | **[LinkedIn Profile](https://www.linkedin.com/in/hojefa-laxmidhar-24737221b/)** | **[Portfolio](https://laxmidharhojefa.github.io/)**
 
 ---
 
